@@ -6,6 +6,7 @@ square = turtle.Turtle()
 
 square.speed(1.5)
 square.color("#151a81")
+square.width(3)
 
 square.forward(100)
 square.right(90)
